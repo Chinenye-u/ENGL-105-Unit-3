@@ -3,7 +3,7 @@ This is a data repository that compares children's health and education in North
 - A raw data set
 - 1 Python notebook containing a subset of that data and instrucitons on how to create it
 ## Purpose
-The purpose of this data is to compare the difference between children's health and education in NOrth Carolina and Virginia, two states that are similar in size and geography. This data can be used for 
+The purpose of this data is to compare the difference between children's health and education in North Carolina and Virginia, two states that are similar in size and geography. This data can be used for:
 - Advocating for more funding in ceratin areas for either state
 - Evidence for research on children's health in the south
 ## Data Visualization
