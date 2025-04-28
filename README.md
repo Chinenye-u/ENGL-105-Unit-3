@@ -1,8 +1,8 @@
 # **Children's Health and Education in North Carolina and Virginia**
 This is a data repository was created for Prof. Gotzler's English 105 course at the University of North Carolina at Chapel Hill. The data represented in this repository compares children's health and education in North Carolina and Virginia. It contains:
-- A .csv file of raw data
-- 1 instructional Python3 notebook containing a subset of data
-  Users can download each for their own research and analysis.
+- A .csv file of [raw data](https://github.com/Chinenye-u/ENGL-105-Unit-3/blob/main/CountyHealthData_2014-2015.csv)
+- 1 [instructional Python3 notebook](https://github.com/Chinenye-u/ENGL-105-Unit-3/blob/main/unit_3.ipynb) containing a [subset](https://github.com/Chinenye-u/ENGL-105-Unit-3/blob/main/nc%20and%20va%20subset.csv) of data
+  - Users can download each for their own research and analysis.
 ## Purpose
 The purpose of this data is to compare the difference between children's health and education in North Carolina and Virginia, two states that are similar in size and geography. This data can be used for:
 - Advocating for more funding in ceratin areas for either state
